@@ -16,11 +16,7 @@ dependencies:
 
   - scikit-learn
   - keras
+  - np_utils # required for keras
+  - tensorflow
 
   - pip
-
-  - pip:
-    - --index-url https://download.pytorch.org/whl/rocm7.1
-    - torch 
-    - torchvision
-  
