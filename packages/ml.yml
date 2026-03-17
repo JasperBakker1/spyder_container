@@ -13,6 +13,7 @@ dependencies:
   - pathlib
   - seaborn
   - ipykernel
+  - tqdm
 
   - scikit-learn
   - keras

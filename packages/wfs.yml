@@ -14,6 +14,7 @@ dependencies:
   - pathlib
   - seaborn
   - ipykernel
+  - tqdm
 
   - pip
 
