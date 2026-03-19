@@ -8,7 +8,7 @@ version: 2
 
 registries:
   ghcr:
-    type: ghcr
+    type: docker-registry
     url: https://ghcr.io
     token: ${{ secrets.DEPENDABOT }}
 
