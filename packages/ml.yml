@@ -19,5 +19,6 @@ dependencies:
   - keras
   - np_utils # required for keras
   - tensorflow
+  - pydot
 
   - pip
