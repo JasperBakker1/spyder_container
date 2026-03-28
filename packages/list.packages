@@ -1,2 +1,3 @@
 texlive-base
-libxcb-cursor-dev
+graphviz
+# libxcb-cursor-dev
