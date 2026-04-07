@@ -17,6 +17,7 @@ dependencies:
 
   - scikit-learn
   - keras
+  - keras-tuner
   - np_utils # required for keras
   - tensorflow
   - pydot
