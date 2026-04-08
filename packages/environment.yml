@@ -21,4 +21,5 @@ dependencies:
   - pip:
     - curvefitgui
     - tk
+    - map-nl
   
