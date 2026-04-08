@@ -16,10 +16,11 @@ dependencies:
   - seaborn
   - tqdm
 
+  - map-nl
+
   - pip
 
   - pip:
     - curvefitgui
     - tk
-    - map-nl
   
