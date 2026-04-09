@@ -15,8 +15,7 @@ dependencies:
   - pathlib
   - seaborn
   - tqdm
-
-  - map-nl
+  - openpyxl
 
   - pip
 
