@@ -1,4 +1,4 @@
-name: spyder
+name: wfs
 
 channels:
   - conda-forge
