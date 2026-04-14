@@ -20,3 +20,4 @@ dependencies:
 
   - pip:
     - openwfs[all]
+    - git+https://github.com/DylanMMarques/private_openwfs.git
